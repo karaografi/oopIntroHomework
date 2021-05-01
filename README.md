@@ -1,7 +1,7 @@
 # oopIntroHomework
 
 Program çıktısı
-------
+-------
 
 empty arrays
 empty arrays
